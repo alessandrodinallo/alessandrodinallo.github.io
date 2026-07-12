@@ -126,3 +126,12 @@ html[data-theme="dark"] {
     width: 20%;
   }
 }
+
+/* Contact block under the photo: small caption in the body font (not monospace),
+   so it harmonises with the bio paragraph instead of standing out. */
+.profile .more-info {
+  font-family: inherit;
+  font-size: 0.8rem;
+  line-height: 1.35;
+  color: var(--global-text-color-light);
+}
