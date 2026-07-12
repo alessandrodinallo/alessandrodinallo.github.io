@@ -90,15 +90,22 @@ html[data-theme="dark"] {
 /* Home "Selected publications": no film stills — hide the image column and
    let the text span the full width (film photos live only on /publications). */
 .no-thumbs ol.bibliography li {
-  .col.abbr,
+  /* keep the blue venue badge, but hide the film still, its caption,
+     and the paper blurb (those live only on /publications) */
   figure,
   .preview,
-  .preview-caption {
+  .preview-caption,
+  .periodical.blurb {
     display: none !important;
   }
+  /* narrow badge column + wide text column, for a clean list look */
+  .col.abbr {
+    flex: 0 0 16.6667% !important;
+    max-width: 16.6667% !important;
+  }
   .col-sm-8 {
-    flex: 0 0 100% !important;
-    max-width: 100% !important;
+    flex: 0 0 83.3333% !important;
+    max-width: 83.3333% !important;
   }
 }
 
