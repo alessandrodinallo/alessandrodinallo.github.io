@@ -119,3 +119,10 @@ html[data-theme="dark"] {
 .cv ul.list-group > li.list-group-item {
   list-style: none;
 }
+
+/* Smaller, circular profile photo on the about page */
+@media (min-width: 576px) {
+  .profile {
+    width: 20%;
+  }
+}
