@@ -14,7 +14,7 @@ nav_order: 2
 - **Socioeconomic status, maternal age and the risk of stillbirth in the Netherlands** (with Selin Köksal and Katya Ivanova). *Revise & resubmit, Epidemiology.*
 - **Women's job market outcomes around live and non-live births.** *Under review.*
 - **Speed of population change and migration flows in Europe at the sub-national level** (with Francesco Billari, Marco Bolano and Chiara Serra). *Under review.*
-- **Stratification in separation: a risk and vulnerability perspective** (with Juho Härkönen, [co-author] and Thomas Leopold). *Under review.*
+- **Stratification in separation: a risk and vulnerability perspective** (with Juho Härkönen, Lewis Anderson and Thomas Leopold). *Under review.*
 
 ## Work in progress
 
