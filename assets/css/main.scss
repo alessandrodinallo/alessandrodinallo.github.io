@@ -45,3 +45,44 @@ html[data-theme="dark"] {
   --global-theme-color: #4a9eff;
   --global-hover-color: #4a9eff;
 }
+
+/* -----------------------------------------------------------------------------
+   Publications: larger film-still thumbnails, caption, and bigger blurb text.
+   -------------------------------------------------------------------------- */
+.publications ol.bibliography li {
+  .abbr {
+    /* the film still fills the (wider) image column */
+    .preview {
+      display: block;
+      width: 100%;
+    }
+    .preview img,
+    img.preview {
+      width: 100%;
+      height: auto;
+    }
+    /* keep the venue badge compact instead of stretching full width */
+    abbr.badge {
+      width: auto !important;
+      display: inline-block;
+    }
+  }
+
+  /* caption under the still: film, director, year */
+  .preview-caption {
+    margin-top: 0.4rem;
+    font-size: 0.75rem;
+    font-style: italic;
+    line-height: 1.25;
+    text-align: center;
+    color: var(--global-text-color-light);
+  }
+
+  /* accompanying blurb: larger and more readable than the default periodical line */
+  .periodical.blurb {
+    margin-top: 0.35rem;
+    font-size: 1.05rem;
+    line-height: 1.4;
+    color: var(--global-text-color);
+  }
+}
