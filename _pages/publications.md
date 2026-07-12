@@ -13,16 +13,15 @@ nav_order: 2
 
 - **Socioeconomic status, maternal age and the risk of stillbirth in the Netherlands** (with Selin Köksal and Katya Ivanova). *Revise & resubmit, Epidemiology.*
 - **Women's job market outcomes around live and non-live births.** *Under review.*
-- **Speed of population change and migration flows in Europe at the sub-national level** (with Francesco Billari, Marco Bolano and Chiara Serra). *Under review.*
+- **Speed of population change and migration flows in Europe at the sub-national level** (with Francesco Billari, Danilo Bolano and Chiara Serra). *Under review.*
 - **Stratification in separation: a risk and vulnerability perspective** (with Juho Härkönen, Lewis Anderson and Thomas Leopold). *Under review.*
 
 ## Work in progress
 
-- **Pregnancy loss and partnership survival in the UK and Germany** (with Ozan Büyükkeçeci).
+- **Pregnancy loss and partnership survival in the UK and Germany** (with Zafer Büyükkeçeci).
 - **Pregnancy loss following in-utero exposure to job loss** (with Selin Köksal and Katya Ivanova), Dutch register data.
-- **The urban transition of Italian municipalities: connectivity** (with Marco Bolano, Daniela Ghio and Francesco Billari).
+- **The urban transition of Italian municipalities: connectivity** (with Danilo Bolano, Daniela Ghio and Francesco Billari).
 - **The institutionalization of stepfamilies: union stability across 15 countries.**
-- **Internet use and the postponement of age deadlines for childbearing** (with Alice Goisis and Francesco Billari).
 
 ---
 
