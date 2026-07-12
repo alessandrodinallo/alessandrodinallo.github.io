@@ -9,9 +9,9 @@ nav_order: 6
 
 ## Universitat Pompeu Fabra
 
-- **Statistical Analysis Techniques II** — Research Master in Sociology and Demography. Teaching Assistant to Prof. Aïda Solé-Auró. Spring 2016 & 2017.
-
-<!-- TODO: add your current UPF courses here (course name, programme, role, years). -->
+- **Techniques of Statistical Analysis I** (course 31207) — Master of Research in Sociology and Demography. Instructor (Group I). First term, 2026–27. Descriptive statistics, statistical inference, and linear regression with Stata.
+- **Statistics and Market Research Methods** (course 20355) — BA in Advertising and Public Relations, Faculty of Communication. Instructor. 2025–26.
+- **Statistical Analysis Techniques II** (course 31207) — Research Master in Sociology and Demography. Teaching Assistant to Prof. Aïda Solé-Auró. Spring 2016 & 2017.
 
 ## Università Bocconi
 
