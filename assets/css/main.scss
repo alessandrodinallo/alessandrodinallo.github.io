@@ -90,11 +90,25 @@ html[data-theme="dark"] {
 /* Home "Selected publications": no film stills — hide the image column and
    let the text span the full width (film photos live only on /publications). */
 .no-thumbs ol.bibliography li {
-  .col.abbr {
-    display: none;
+  .col.abbr,
+  figure,
+  .preview,
+  .preview-caption {
+    display: none !important;
   }
   .col-sm-8 {
-    flex: 0 0 100%;
-    max-width: 100%;
+    flex: 0 0 100% !important;
+    max-width: 100% !important;
   }
+}
+
+/* CV: remove the default list bullet shown before each entry/date
+   (bootstrap list-group styling is not loaded, so <li> falls back to a disc). */
+.cv ul.list-group {
+  list-style: none;
+  padding-left: 0;
+  margin-left: 0;
+}
+.cv ul.list-group > li.list-group-item {
+  list-style: none;
 }
