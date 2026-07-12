@@ -2,14 +2,17 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Course materials, schedules, and resources for classes taught.
+description: Courses taught and teaching assistantships.
 nav: true
 nav_order: 6
-calendar: true
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+## Universitat Pompeu Fabra
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+- **Statistical Analysis Techniques II** — Research Master in Sociology and Demography. Teaching Assistant to Prof. Aïda Solé-Auró. Spring 2016 & 2017.
 
-{% include courses.liquid %}
+<!-- TODO: add your current UPF courses here (course name, programme, role, years). -->
+
+## Università Bocconi
+
+- **Applications for Data Management** (course 30280) — BSc in Economics and Management (BIEM). Lecturer. Fall 2021 & 2022.

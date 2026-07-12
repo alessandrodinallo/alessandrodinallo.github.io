@@ -2,16 +2,17 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Lecturer in Sociology and Demography, <a href='https://www.upf.edu/'>Universitat Pompeu Fabra</a> (Barcelona). Guest Researcher, <a href='https://www.demogr.mpg.de/'>MPIDR</a> · Affiliate, <a href='https://dondena.unibocconi.eu/'>Dondena Centre</a>.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Department of Political and Social Sciences</p>
+    <p>Universitat Pompeu Fabra</p>
+    <p>Barcelona, Spain</p>
+    <p><a href="mailto:alessandro.dinallo@upf.edu">alessandro.dinallo@upf.edu</a></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -22,13 +23,13 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Lecturer (tenure-track) in the [Department of Political and Social Sciences](https://www.upf.edu/web/cps) at Universitat Pompeu Fabra (UPF) in Barcelona, where I am a member of the [DemoSoc](https://www.upf.edu/web/demosoc) research group. I am also a Guest Researcher at the [Max Planck Institute for Demographic Research](https://www.demogr.mpg.de/) (MPIDR) in Rostock and an affiliate of the [Dondena Centre](https://dondena.unibocconi.eu/) at Bocconi University in Milan.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+At the MPIDR I collaborate with the **BIOSFER** project (European Research Council, Horizon Europe; PI: Mikko Myrskylä), where I was a postdoctoral researcher between 2024 and 2025.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research sits at the intersection of **sociology and demography**. I study how socioeconomic conditions and life-course events shape family and reproductive outcomes, with a current focus on **perinatal outcomes** (live birth, miscarriage, stillbirth), **fertility**, **pregnancy loss**, and their consequences for well-being, health, and partnership stability. I also work on job loss and union dissolution, and on the spatial demography of Italy. I completed my PhD in Social Demography at Universitat Pompeu Fabra in 2019.
