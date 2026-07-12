@@ -13,7 +13,7 @@ cv:
       username: alessandrodinallo
 
   sections:
-    Appointments:
+    Experience:
       - company: Universitat Pompeu Fabra (UPF)
         position: Lecturer (tenure-track), Dept. of Political and Social Sciences
         location: Barcelona, Spain
@@ -83,25 +83,22 @@ cv:
         start_date: 2005
         end_date: 2008
 
-    Grants and Funding:
-      - title: ODISSEI Microdata Access Grant
-        authors:
-          - "with Selin Köksal and Katya Ivanova"
+    Awards:
+      - title: "ODISSEI Microdata Access Grant (with Selin Köksal and Katya Ivanova)"
         date: 2023
         awarder: ODISSEI
-        summary: "€7,500 — Pregnancy loss and job loss using Dutch register data."
+        summary: "Grant, €7,500 — Pregnancy loss and job loss using Dutch register data."
 
       - title: Understanding Society Fellowship
         date: 2023
         awarder: Understanding Society (UK)
-        summary: "£30,000 — The scarring effect of pregnancy loss on the life course."
+        summary: "Grant, £30,000 — The scarring effect of pregnancy loss on the life course."
 
-      - title: Fondazione Cariplo, Social Research call (FAST project)
+      - title: "Fondazione Cariplo, Social Research call (FAST project)"
         date: 2021
         awarder: Fondazione Cariplo
-        summary: "€200,000 — Population change, territorial attractiveness and resilience."
+        summary: "Grant, €200,000 — Population change, territorial attractiveness and resilience."
 
-    Awards:
       - title: PhD Special Award for Best Thesis
         date: 2020
         awarder: Universitat Pompeu Fabra
