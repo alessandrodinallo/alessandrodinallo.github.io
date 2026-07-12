@@ -86,3 +86,15 @@ html[data-theme="dark"] {
     color: var(--global-text-color);
   }
 }
+
+/* Home "Selected publications": no film stills — hide the image column and
+   let the text span the full width (film photos live only on /publications). */
+.no-thumbs ol.bibliography li {
+  .col.abbr {
+    display: none;
+  }
+  .col-sm-8 {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+}
