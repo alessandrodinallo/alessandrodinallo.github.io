@@ -4,7 +4,7 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 5
-cv_pdf: # add a link to your CV PDF here once you upload one
+cv_pdf: /assets/pdf/Alessandro-Di-Nallo-CV.pdf
 cv_format: rendercv # options: rendercv, jsonresume
 description: Curriculum Vitae.
 toc:

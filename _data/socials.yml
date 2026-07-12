@@ -2,6 +2,7 @@
 # the socials will be displayed in the order they are defined here
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
 email: alessandro.dinallo@upf.edu # your email address
+cv_pdf: /assets/pdf/Alessandro-Di-Nallo-CV.pdf # downloadable CV
 rss_icon: true # comment this line to hide the RSS icon
 scholar_userid: -wGMwAkAAAAJ # your Google Scholar ID
 x_username: aledinal # X / Twitter handle
