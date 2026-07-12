@@ -120,10 +120,13 @@ html[data-theme="dark"] {
   list-style: none;
 }
 
-/* Smaller, circular profile photo on the about page */
+/* Smaller, circular profile photo on the about page; nudged upward */
 @media (min-width: 576px) {
   .profile {
     width: 20%;
+  }
+  .profile.float-right {
+    margin-top: -2.5rem;
   }
 }
 
