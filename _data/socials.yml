@@ -1,10 +1,13 @@
 # this file contains the social media links and usernames of the author
 # the socials will be displayed in the order they are defined here
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
-cv_pdf: # path to your CV PDF file (leave blank until you upload one)
 email: alessandro.dinallo@upf.edu # your email address
 rss_icon: true # comment this line to hide the RSS icon
 scholar_userid: -wGMwAkAAAAJ # your Google Scholar ID
 x_username: aledinal # X / Twitter handle
-bluesky_username: aledinal.bsky.social # Bluesky handle (verify this is correct)
 github_username: alessandrodinallo # GitHub username
+# Bluesky is not a built-in network in jekyll-socials 0.0.7, so it is added as a custom social.
+bluesky:
+  logo: fa-brands fa-bluesky
+  title: Bluesky
+  url: https://bsky.app/profile/aledinal.bsky.social
