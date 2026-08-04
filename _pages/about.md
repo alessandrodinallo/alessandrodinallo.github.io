@@ -32,4 +32,6 @@ I am a Lecturer (tenure-track) in the [Department of Political and Social Scienc
 
 At the MPIDR I collaborate with the **BIOSFER** project (European Research Council, Horizon Europe; PI: Mikko Myrskylä), where I was a postdoctoral researcher between 2024 and 2025.
 
+I am co-PI (with Clara Cortina) of **REPRODIV**, a project on diverse reproductive trajectories and their sociodemographic drivers and implications, funded by the Spanish Research Agency (AEI) under the *Generación de Conocimiento* programme.
+
 My research sits at the intersection of **sociology and demography**. I study how socioeconomic conditions and life-course events shape family and reproductive outcomes, with a current focus on **perinatal outcomes** (live birth, miscarriage, stillbirth), **fertility**, **pregnancy loss**, and their consequences for well-being, health, and partnership stability. I also work on job loss and union dissolution, and on the spatial demography of Italy. I completed my PhD in Social Demography at Universitat Pompeu Fabra in 2019.
