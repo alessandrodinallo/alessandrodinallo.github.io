@@ -97,8 +97,21 @@ jobs:
       - name: Commit and push if changed
         run: |
           git add _data/citations.yml
-          git diff --staged --quiet || (
-            echo "📤 Committing and pushing changes..."
-            git commit -m "Update Google Scholar citations"
-            git push
-          )
+          if git diff --staged --quiet; then
+            echo "ℹ️ No changes to commit."
+          else
+            # Guard against a gutted file from a partial/throttled Scholar fetch:
+            # skip the commit if the new file is much smaller than the current one.
+            new_lines=$(wc -l < _data/citations.yml)
+            old_lines=$(git show HEAD:_data/citations.yml 2>/dev/null | wc -l)
+            if [ "$old_lines" -gt 100 ] && [ "$new_lines" -lt $((old_lines / 2)) ]; then
+              echo "::warning::New citations.yml ($new_lines lines) is far smaller than current ($old_lines lines); likely a partial Google Scholar fetch. Skipping commit to preserve existing data."
+              echo "⚠️ Skipped: new citations.yml ($new_lines lines) far smaller than current ($old_lines). Existing data preserved." >> $GITHUB_STEP_SUMMARY
+              git restore --staged _data/citations.yml
+              git checkout -- _data/citations.yml
+            else
+              echo "📤 Committing and pushing changes..."
+              git commit -m "Update Google Scholar citations"
+              git push
+            fi
+          fi
