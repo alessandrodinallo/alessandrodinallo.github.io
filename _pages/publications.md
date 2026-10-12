@@ -12,7 +12,6 @@ nav_order: 2
 ## Under review & revise-and-resubmit
 
 - **Socioeconomic status, maternal age and the risk of stillbirth in the Netherlands** (with Selin Köksal and Katya Ivanova). *Revise & resubmit, Epidemiology.*
-- **Women's job market outcomes around live and non-live births.** *Under review.*
 - **Speed of population change and migration flows in Europe at the sub-national level** (with Francesco Billari, Danilo Bolano and Chiara Serra). *Under review.*
 - **Stratification in separation: a risk and vulnerability perspective** (with Juho Härkönen, Lewis Anderson and Thomas Leopold). *Under review.*
 
